@@ -59,3 +59,6 @@ MapColoring/
 ├── map_solver.py
 ├── map_gui.py
 └── README.md
+
+AUTHOR
+NAME : PORANI SRI S REG NO : RA2411026050139
